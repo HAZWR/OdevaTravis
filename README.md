@@ -10,7 +10,7 @@ Pour compiler, vous avez besoin de Maven.
 
 `mvn package`
 
-dans un terminal dans le répertoire source du projet.Puis vous pouvez executer le programme en allant dans le dossier target/classes et taper la commande `java parking.business.App`
+dans   un terminal dans le répertoire source du projet.Puis vous pouvez executer le programme en allant dans le dossier target/classes et taper la commande `java parking.business.App`
 Vous pouvez convertir le projet en projet eclipse avec
 
 `mvn eclipse:eclipse`
@@ -438,4 +438,3 @@ Interfaces:
 </table>
 
 On verra plus tard pour l'interface graphique(swing/AWT) et les factures(serialisable).
-
